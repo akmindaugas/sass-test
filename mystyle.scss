@@ -1,0 +1,14 @@
+$mycolor: crimson;
+$fontSize: 100px;
+$padding: 30px;
+
+p{
+    color: $mycolor;
+    font-size: $fontSize;
+}
+li{
+    padding: $padding;
+}
+body{
+    background-color: blanchedalmond;
+}
